@@ -66,6 +66,8 @@ $(document).ready(function(){
             alert(erro);
             
             $("#debug").html('erro');
+
+            teste
         }
     });
 
